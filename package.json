@@ -1,0 +1,24 @@
+{
+  "name": "node-npm-test",
+  "version": "1.0.0",
+  "description": "Node test env",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scumsy/Node-npm-test-env.git"
+  },
+  "author": "Scumsy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scumsy/Node-npm-test-env/issues"
+  },
+  "homepage": "https://github.com/Scumsy/Node-npm-test-env#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "shortid": "^2.2.16"
+  }
+}
